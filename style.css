@@ -1,0 +1,47 @@
+body {
+  background-color: #C6C7C4;
+  font-family: 'Merriweather', serif;
+}
+#Heading {
+  background-color: #2F1847;
+  padding-top: .01%;
+  padding-bottom: .01%;
+  margin: 0;
+}
+#headingContent {
+  font-family: 'Oxygen', sans-serif;
+  padding-left: 15%;
+  margin-bottom: 3%;
+  letter-spacing: .7em;
+  color: #EEF0F2;
+}
+h1 {
+  font-family: 'Oxygen', sans-serif;
+  padding-left: 15%;
+  font-size: 3em;
+  color: #EEF0F2;
+}
+h2 {
+  font-family: 'Lobster', cursive;
+  font-size: 2em;
+  color: #8E9B90;
+  margin-left: 15%;
+  border-bottom-width: 2px;
+  border-bottom-color: #624763;
+  border-bottom-style: solid;
+  padding-bottom: 1%;
+  padding-top: 3%
+}
+h3 {
+  color: #2F1847;
+}
+#educationContent {
+  margin-left: 45%;
+}
+#experienceContent {
+  margin-left: 45%;
+}
+#activitiesContent {
+  margin-left: 45%;
+  margin-bottom: 5%;
+}
